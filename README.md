@@ -7,5 +7,5 @@ The method of buffer managemnt is based on a reference to TDT (Traffic-Aware Buf
 
 ## Contribution
 
-Management according to the priority of flow
-Queue-based Control
+1. Management according to the priority of flow
+2. Queue-based Control
